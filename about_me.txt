@@ -3,3 +3,13 @@ Introduce yourself in this file!
 Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
 
 My name is Calvin Chou and I am a sophomore majoring in computer science in LSA. I enjoy watching and playing sports.
+
+Relevant courses:
+EECS 281
+EECS 280
+EECS 203
+STATS 250
+
+Currently taking:
+EECS 370
+MATH 215
