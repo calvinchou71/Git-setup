@@ -1,3 +1,5 @@
 Introduce yourself in this file!
 
 Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+
+My name is Calvin Chou and I am a sophomore majoring in computer science in LSA. I enjoy watching and playing sports.
